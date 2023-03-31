@@ -1,2 +1,2 @@
 # Mid-term-Project
-I created my Mid-term project relating the currency conversion.
+I created my Mid-term project related to the currency conversion system using PF concepts.
